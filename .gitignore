@@ -1,0 +1,10 @@
+# Virtual Environment
+venv/
+
+# Temporary files
+downloads/
+*.pyc
+__pycache__/
+
+# Secret keys
+.env
